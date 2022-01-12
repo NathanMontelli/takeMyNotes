@@ -10,4 +10,4 @@ app.use(expess.json())
 app.use(require('./routes/index.js'))
 app.use(require('./routes/noteRoutes.js'))
 
-app.listen(3000 )
+app.listen(3000)
