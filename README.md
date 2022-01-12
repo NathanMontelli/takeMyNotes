@@ -31,3 +31,5 @@ No test were preformed
 If you have any further questions please contact me at one of the links below:
 Link to my Github profile https://github.com/nathanmontelli
 My Email address is nathanmontelli@gmail.com
+
+<img src="takemynotes.png" alt="notetaker app"/>
